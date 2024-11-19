@@ -21,7 +21,7 @@ setInterval(() => {
   
 
 //modules
-
+//local module
 const names = require('./modules')
 console.log(names)
 //sayHi('bismark')
